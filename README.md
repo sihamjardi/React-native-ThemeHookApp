@@ -64,5 +64,5 @@ Noir et blanc si nécessaire (mais conserver la cohérence avec la palette).
 
 **Date :** Janvier 2026
 
-**Encadré par :** Pr.Mohamed LACHGHAR
+**Encadré par :** Pr.Mohamed LACHGAR
 
